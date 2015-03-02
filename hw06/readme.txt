@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+#
+# 4 dts file - I get 0x164 for the offset, not 0x40
+# 0 comment block - missing
+# 5 Debian release names
+# 5 Debian package count before and after adding jessie
+# 5 htop versions before and after jessie
+
+# Grade:  19/25
+#######################################################
+
+
 VND-gpio-set.dts
 		1. followed the order in Device_Trees.
 		2.Named my file VND-gpio-set.dts.
